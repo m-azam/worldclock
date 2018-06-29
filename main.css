@@ -1,0 +1,10 @@
+.spacex{
+	background-color: #5f9bfc;
+	max-height: 700px;
+    overflow-y: scroll;
+}
+.searchx{
+	border-left: 2px solid white; 
+	background-color: #5f9bfc;
+	height: 400px;
+}
